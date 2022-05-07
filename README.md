@@ -1,1 +1,1 @@
-# encore-4team
+# OpenCV in Google Colab
